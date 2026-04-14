@@ -109,49 +109,7 @@ GET https://api.petrushka.ru/v1/partners/stores?lat=55.75&lon=37.62
 
 ## 2. Пример ответа в формате JSON
 
-[
-    {
-        "id": 1,
-        "name": "METRO",
-        "delivery": {
-            "type": "interval",
-            "from": "21:00",
-            "to": "23:00"
-        },
-        "external_url": "https://metro.ru?utm_source=petrushka_app&utm_medium=partners&utm_campaign=stores_screen"
-    },
-    {
-        "id": 2,
-        "name": "Ашан",
-        "delivery": {
-            "type": "interval",
-            "from": "18:00",
-            "to": "20:00"
-        },
-        "external_url": "https://ashan.ru?utm_source=petrushka_app&utm_medium=partners&utm_campaign=stores_screen"
-    },
-    {
-        "id": 3,
-        "name": "ВкусВилл",
-        "delivery": {
-            "type": "range",
-            "from": 20,
-            "to": 60,
-            "unit": "minutes"
-        },
-        "external_url": "https://vkusvill.ru?utm_source=petrushka_app&utm_medium=partners&utm_campaign=stores_screen"
-    },
-    {
-        "id": 4,
-        "name": "ВИКТОРИЯ",
-        "delivery": {
-            "type": "interval",
-            "from": "17:00",
-            "to": "19:00"
-        },
-        "external_url": "https://victoria.ru?utm_source=petrushka_app&utm_medium=partners&utm_campaign=stores_screen"
-    }
-]
+[api-response.json](api-response.json)
 
 ## 3. Пояснения
 
