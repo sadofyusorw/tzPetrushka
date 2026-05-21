@@ -128,9 +128,8 @@ GET https://api.petrushka.ru/v1/partners/stores?lat=55.75&lon=37.62
 
 ## Схемы
 
-<img width="521" height="791" alt="TZBlock" src="https://github.com/user-attachments/assets/32135cc3-bbee-49a8-9c11-d1e7b66bb91a" />
-<img width="1489" height="767" alt="TZSequence" src="https://github.com/user-attachments/assets/ac8b5920-ad24-4f6e-af9c-bec8ce9b16bd" />
-
+<img width="521" height="791" alt="577885151-32135cc3-bbee-49a8-9c11-d1e7b66bb91a" src="https://github.com/user-attachments/assets/5bbc7a3d-74d8-4e52-b0a1-e0cbde549c2d" />
+<img width="1489" height="767" alt="577885032-ac8b5920-ad24-4f6e-af9c-bec8ce9b16bd" src="https://github.com/user-attachments/assets/6d2e2a78-57a8-4555-bc79-dfc6e6f9a97a" />
 
 ## Краткое описание
 
